@@ -1,0 +1,9 @@
+{
+  "name": "nextjs-architect",
+  "description": "Architectural guardrails for modern Next.js multi-tenant SaaS projects: Next.js 16 patterns, DAL discipline, tenant isolation in cache keys, design tokens, i18n with RTL, and one-way dependency direction.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Sooraj Panchal",
+    "email": "sooraj.panchal@spaceo.in"
+  }
+}
